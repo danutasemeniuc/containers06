@@ -2,7 +2,7 @@
 
 ## Scopul lucrării
 
-Scopul acestei lucrări este de a înțelege și gestiona interacțiunea între mai multe containere Docker, utilizând imagini pentru serverele nginx și php-fpm. La finalul lucrării, studentul va fi capabil să creeze un mediu de execuție PHP cu două containere care interacționează între ele printr-o rețea Docker internă.
+Scopul acestei lucrări este de a înțelege și gestiona interacțiunea între mai multe containere Docker, utilizând imagini pentru serverele nginx și php-fpm. La finalul lucrării, vei  fi capabil să creezi un mediu de execuție PHP cu două containere care interacționează între ele printr-o rețea Docker internă.
 
 ## Sarcina
 
